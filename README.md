@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/5bb6b815-6d99-4844-be38-e7f878bc933f)
 ## Data Overview
 This project analyze and visualizes with course students prefer lot along with attendance and retention rate. Gender wise course preference and monthly basis engagement rate including in the dashboard:
-•	tudent ID (Unique identifier for each student)
+•	student ID (Unique identifier for each student)
 •	Name (Anonymized or actual student names)
 •	Age (Demographic categorization)
 •	Gender (Diversity and inclusion analysis)
