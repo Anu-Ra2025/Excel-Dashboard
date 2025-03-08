@@ -5,16 +5,16 @@
 This project analyze and visualizes with course students prefer lot along with attendance and retention rate. Gender wise course preference and monthly basis engagement rate including in the dashboard:
 * student ID (Unique identifier for each student)
 *	Name (Anonymized or actual student names)
-•	Age (Demographic categorization)
-•	Gender (Diversity and inclusion analysis)
-•	Course Name (Academic program classification)
-•	Enrollment Date (Timeline of student registration)
-•	Attendance (Tracking participation and engagement)
+*	Age (Demographic categorization)
+*	Gender (Diversity and inclusion analysis)
+*	Course Name (Academic program classification)
+* Enrollment Date (Timeline of student registration)
+*	Attendance (Tracking participation and engagement)
 The primary goal is to derive data-driven insights by calculating key metrics, including:
-•	Retention Rate – Evaluating student persistence over time
-•	Average Attendance Trends – Identifying patterns in participation
-•	Enrollment Growth & Distribution – Analyzing trends across different courses
-•	Course Satisfaction Rate – Gauging student feedback and engagement
+*	Retention Rate – Evaluating student persistence over time
+*	Average Attendance Trends – Identifying patterns in participation
+*	Enrollment Growth & Distribution – Analyzing trends across different courses
+*	Course Satisfaction Rate – Gauging student feedback and engagement
 Through advanced data analysis and visualization techniques, this project aims to deliver actionable insights that support informed decision-making, ultimately enhancing student engagement and academic success.
 
 ## Data Cleaning:
